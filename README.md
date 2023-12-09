@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Live Blog App link - ( https://amazing-cocada-e954fb.netlify.app/ )
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
